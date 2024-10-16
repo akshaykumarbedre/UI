@@ -5,12 +5,13 @@ from uuid import uuid4
 import random
 from datetime import datetime, timedelta
 import os
-
+from dotenv import load_dotenv
+load_dotenv()
 app = Flask(__name__)
 
 twilio_client = Client(
-    "ACb7e9943289bea822d29a51d2cb029667",
-    "1e7b69ee07eac9338ef85f9d6f460320"
+    os.environ['TWILIO_ACCOUNT_SID'],
+    os.environ['TWILIO_AUTH_TOKEN']
 )
 
 # File paths
