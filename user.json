@@ -1,0 +1,39 @@
+[{
+        "customer_id": "C001",
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "address": {
+          "street": "123 Elm Street",
+          "city": "New York",
+          "state": "NY",
+          "pincode": "10001"
+        },
+        "phone": "123-456-7890"
+      },
+      {
+        "customer_id": "C002",
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "address": {
+          "street": "456 Oak Avenue",
+          "city": "Los Angeles",
+          "state": "CA",
+          "pincode": "90001"
+        },
+        "phone": "987-654-3210"
+      },
+      {
+        "customer_id": "C003",
+        "name": "Alice Johnson",
+        "email": "alicejohnson@example.com",
+        "address": {
+          "street": "789 Pine Lane",
+          "city": "Chicago",
+          "state": "IL",
+          "pincode": "60601"
+        },
+        "phone": "456-789-1234"
+      }
+]
+
+  

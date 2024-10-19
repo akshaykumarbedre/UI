@@ -1,0 +1,38 @@
+{"Order": [
+      {
+        "order_id": "O1001",
+        "customer_id": "C001",
+        "order_date": "2024-10-19",
+        "items": [
+          {
+            "product_name": "Premium Liquid Hand Soap",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": "O1002",
+        "customer_id": "C002",
+        "order_date": "2024-10-18",
+        "items": [
+          {
+            "product_name": "Wireless Earbuds",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "order_id": "O1003",
+        "customer_id": "C003",
+        "order_date": "2024-10-17",
+        "items": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+}
+
+  
